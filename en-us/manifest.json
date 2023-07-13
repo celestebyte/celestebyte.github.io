@@ -1,0 +1,36 @@
+{
+    "theme_color": "#dd6065",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "/en-us/",
+    "name": "CelesteByte Blog",
+    "short_name": "celestebyte",
+    "description": "CelesteByte Blog",
+    "icons": [
+        {
+            "src": "/icon_hubfc797da709cafaef39766fabfb5c269_4917_192x192_resize_catmullrom_3.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/icon_hubfc797da709cafaef39766fabfb5c269_4917_256x256_resize_catmullrom_3.png",
+            "sizes": "256x256",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/icon_hubfc797da709cafaef39766fabfb5c269_4917_384x384_resize_catmullrom_3.png",
+            "sizes": "384x384",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/icon_hubfc797da709cafaef39766fabfb5c269_4917_512x512_resize_catmullrom_3.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}
